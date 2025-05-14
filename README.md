@@ -1,1 +1,7 @@
-# Openindiana-OS_solomon_ayenew
+# Openindiana-OS_solomon_ayenew_BDU160463
+Here is some description about the assignment
+
+About Openindaina OS installation:
+The document provides a comprehensive guide to installing the OpenIndiana OS, an open-source UNIX-based system descended from OpenSolaris, with step-by-step instructions and setup requirements.It outlines the key objectives of OpenIndiana, such as providing a stable and secure operating system for servers and desktops while supporting community-driven development. Detailed installation steps are included, covering everything from downloading the ISO to creating user accounts and completing the GUI setup. The document also addresses common issues and solutions, including hardware compatibility and bootloader conflicts, offering practical troubleshooting tips. It highlights the advantages of OpenIndiana like ZFS file system support, Solaris compatibility, and developer tools, along with disadvantages such as limited hardware support, smaller community, and a steeper learning curve.
+About Systme calls:
+The document explains how system calls act as a bridge between user-level applications and the operating system kernel. It focuses on the implementation of system calls in OpenIndiana, an open-source OS based on the Illumos kernel. Key system call categories discussed include file operations, process control, memory management, networking, and inter-process communication. It highlights how these system calls facilitate secure and efficient interaction between applications and system resources. The document emphasizes the importance of abstraction provided by system calls in enhancing system stability, performance, and developer productivity.
